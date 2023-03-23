@@ -46,12 +46,12 @@ Researched answer: pair programming is a work method in which two developers sha
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A higher order function is a function that takes in another function as an argument. They are used by calling built-in methods. Higher order functions return a function as a result.
 
-2. Jest:
+2. Jest: Jest is a testing framework for javascript. Jest is made up of a collection of files called dependencies. The package manager yarn is used to manage all the files in the Jest dependency. 
 
-3. Objects:
+3. Objects: An object is a collection of key value pairs stored in curly braces. The key is the data type of the symbol, and the value is any valid data type within Javascript.
 
-4. Method:
+4. Method: A method is any function that belongs to an object. Methods are used to create a variable to access the value in the object.
 
-5. Classes:
+5. Classes: Classes are types of functions that contin data and behavior. this: is a keyword that refers to the object that the class belongs to. Classes are the blueprints of objects.
